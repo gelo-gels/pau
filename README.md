@@ -1,4 +1,4 @@
-# Quasar App (beah)
+# Quasar App (pau)
 
 A Quasar Framework app
 
